@@ -1,12 +1,7 @@
-## Hi there 👋
+# 소상상점 🏘️
 
-<!--
+![brand_1_image](./brand_1.png)
+![brand_2_image](./brand_2.png)
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 문의
+- 문의하기: [https://litt.ly/sosangsangjeom](https://litt.ly/sosangsangjeom)
